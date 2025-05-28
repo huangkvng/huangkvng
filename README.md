@@ -8,10 +8,7 @@
 ---
 
 🎓 I'm currently studying **Honours Bachelor of Data Science & Analytics** at **Seneca College**.  
-💼 I've worked in marketing and customer service, helping plan events and support guests in busy environments.  
-🧠 I'm passionate about learning, especially in data analytics, coding, and turning data into insights.  
-🤝 I enjoy leading teams, building solutions, and creating welcoming environments wherever I go.  
-📈 I’m actively improving my coding and analytics skills while building real-world projects.  
+ 
 
 ---
 
