@@ -16,38 +16,52 @@
 
 ## 💼 Skills & Tools
 
-I’ve gained a strong foundation in analytics, programming, and business intelligence through academic projects, certifications, and hands-on experience:
+### 🧠 Programming & Data
 
-### 🧠 Programming & Data Analysis
-- **Python** – data manipulation, automation, simulations (SimPy)
-- **SQL** – querying and transforming structured data
-- **R** – statistical analysis and reporting
-- **Spark / PySpark** – distributed data processing
+<p>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SimPy-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
 
-### 📊 Data Science & Machine Learning
-- Data cleaning, preprocessing, and visualization
-- Forecasting (e.g., ARIMA), classification, clustering (basic)
-- Tools: **Pandas, NumPy, Matplotlib, Plotly, Scikit-learn**
+### 📊 Data Analytics & BI
 
-### 📈 Business Intelligence & Reporting
-- **Excel / Google Sheets** – dashboards, formulas, reports
-- **PowerPoint / Word** – professional documentation and storytelling
-- **Markdown** – clean technical formatting for reports
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+</p>
+
+### 📈 Data Science Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ### 🧪 Simulation & Modeling
-- Agent-based modeling using **SimPy** (e.g., elevator, drone delivery)
-- Optimization strategies, queue analysis, wait time simulation
 
-### 🌐 Development & Tools
-- **Git / GitHub** – version control and collaboration
-- **Markdown** – documentation and formatting
-- Basic understanding of **HTML/CSS**
+<p>
+  <img src="https://img.shields.io/badge/SimPy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Queue_Analysis-FFA500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agent_Based_Modeling-1E90FF?style=for-the-badge"/>
+</p>
 
----
+### 🛠️ Other Tools & Skills
 
-## 📊 GitHub Stats
-
-![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangkvng&show_icons=true&theme=radical&count_private=true)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-BF4F24?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 
 ---
@@ -56,7 +70,6 @@ I’ve gained a strong foundation in analytics, programming, and business intell
 
 ![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangpham05&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khangpham05&layout=compact&theme=radical)
 
 ---
 
