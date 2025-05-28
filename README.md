@@ -12,15 +12,43 @@
 
 ---
 
-## 🛠️ Technical Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-</p>
+
+## 💼 Skills & Tools
+
+I’ve gained a strong foundation in analytics, programming, and business intelligence through academic projects, certifications, and hands-on experience:
+
+### 🧠 Programming & Data Analysis
+- **Python** – data manipulation, automation, simulations (SimPy)
+- **SQL** – querying and transforming structured data
+- **R** – statistical analysis and reporting
+- **Spark / PySpark** – distributed data processing
+
+### 📊 Data Science & Machine Learning
+- Data cleaning, preprocessing, and visualization
+- Forecasting (e.g., ARIMA), classification, clustering (basic)
+- Tools: **Pandas, NumPy, Matplotlib, Plotly, Scikit-learn**
+
+### 📈 Business Intelligence & Reporting
+- **Excel / Google Sheets** – dashboards, formulas, reports
+- **PowerPoint / Word** – professional documentation and storytelling
+- **Markdown** – clean technical formatting for reports
+
+### 🧪 Simulation & Modeling
+- Agent-based modeling using **SimPy** (e.g., elevator, drone delivery)
+- Optimization strategies, queue analysis, wait time simulation
+
+### 🌐 Development & Tools
+- **Git / GitHub** – version control and collaboration
+- **Markdown** – documentation and formatting
+- Basic understanding of **HTML/CSS**
+
+---
+
+## 📊 GitHub Stats
+
+![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangkvng&show_icons=true&theme=radical&count_private=true)
+
 
 ---
 
