@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=khangpham05&label=Profile%20views&color=0e75b6&style=flat](https://imgur.com/a/pEarxeY)" alt="khangpham05" />
+  <img src="[https://komarev.com/ghpvc/?username=khangpham05&label=Profile%20views&color=0e75b6&style=flat](https://imgur.com/a/pEarxeY)" />
 </p>
 
 ---
