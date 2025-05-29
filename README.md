@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" width="100%" />
+  <img src="[https://your-banner-url.com/banner.png](https://imgur.com/a/rSCcUWO)" width="100%" />
 </p>
 
 
