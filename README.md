@@ -1,4 +1,5 @@
-![alt text](Screenshot 2025-11-05 at 16.14.40.png)
+![Ronaldo Kick](Screenshot%202025-11-05%20at%2016.14.40.png)
+
 
 <h1 align="center">Hi, I'm Khang 👋</h1>
 <h3 align="center">Aspiring Data Scientist | Tech Enthusiast | Lifelong Learner</h3>
