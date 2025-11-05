@@ -1,5 +1,5 @@
 
-<img width="321" height="205" alt="Screenshot 2025-11-05 at 16 14 40" src="https://github.com/user-attachments/assets/4b008b17-0577-4e25-b51c-52525ec30ab7" />
+<img width="100%" height="100%" alt="Screenshot 2025-11-05 at 16 14 40" src="https://github.com/user-attachments/assets/4b008b17-0577-4e25-b51c-52525ec30ab7" />
 
 
 <h1 align="center">Hi, I'm Khang 👋</h1>
