@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://media.cnn.com/api/v1/images/stellar/prod/180616181353-ronaldo-shot.jpg?q=w_3714,h_2600,x_0,y_0,c_fill))
+![alt text]()
 
 <h1 align="center">Hi, I'm Khang 👋</h1>
 <h3 align="center">Aspiring Data Scientist | Tech Enthusiast | Lifelong Learner</h3>
