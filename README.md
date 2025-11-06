@@ -3,7 +3,7 @@
 
 <h1 align="center">🐐</h1>
 <h1 align="center">Ưhat's up, Mah names Khang</h1>
-<h3 align="center">Aspiring Data Scientist | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Data Scientist?, Soon!</h3>
 
 <p align="center">
   <img src="[https://your-banner-url.com/banner.png](https://imgur.com/a/rSCcUWO)" width="100%" />
